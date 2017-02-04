@@ -1,0 +1,9 @@
+G:\ASPNET\IPConfig\IPConfig\bin\Debug\IPConfig.exe.config
+G:\ASPNET\IPConfig\IPConfig\bin\Debug\IPConfig.exe
+G:\ASPNET\IPConfig\IPConfig\bin\Debug\IPConfig.pdb
+G:\ASPNET\IPConfig\IPConfig\obj\Debug\IPConfig.csprojResolveAssemblyReference.cache
+G:\ASPNET\IPConfig\IPConfig\obj\Debug\IPConfig.NetworkInterface.resources
+G:\ASPNET\IPConfig\IPConfig\obj\Debug\IPConfig.Properties.Resources.resources
+G:\ASPNET\IPConfig\IPConfig\obj\Debug\IPConfig.csproj.GenerateResource.Cache
+G:\ASPNET\IPConfig\IPConfig\obj\Debug\IPConfig.exe
+G:\ASPNET\IPConfig\IPConfig\obj\Debug\IPConfig.pdb
