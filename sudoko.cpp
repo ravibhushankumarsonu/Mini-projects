@@ -83,9 +83,9 @@ void Print(mat(int) &arr){
             //printf("%d ",grid[i][j]);
             cout<<arr[i][j]<<" ";
         }
-       // printf("\n");
+        printf("\n");
     }
-    printf("\n");
+    //printf("\n");
 }
 
 int main() {
